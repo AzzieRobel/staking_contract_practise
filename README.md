@@ -1,4 +1,4 @@
-# Simple Staking Smart Contract
+# Staking Smart Contract
 
 A smart contract which allows users to stake and un-stake a specified ERC20 token. 
 Staked tokens are locked for a specific length of time (set by the contrat owner at the outset).
